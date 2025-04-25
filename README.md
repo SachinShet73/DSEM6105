@@ -1,7 +1,6 @@
 # DSEM6105
 # Concept Bottleneck Models for Bird Classification
 
-![Bird Classification Example](https://github.com/user/concept-bottleneck-birds/raw/main/images/example_predictions.png)
 
 ## Overview
 
