@@ -1,0 +1,1 @@
+python CUB/train.py --data_dir CUB_processed/class_attr_data_10 --output_dir outputs/concept_bottleneck --backbone resnet50 --batch_size 64 --image_size 299 --concept_epochs 50 --classifier_epochs 30 --num_workers 4 --num_classes 200 --n_attributes 312 
